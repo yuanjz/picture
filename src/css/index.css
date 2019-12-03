@@ -58,7 +58,7 @@ div .in_pic{
 .out_bottom{
     transform: rotateX(-90deg) translateZ(100px);
 }
-.in_frount{
+.in_front{
     transform:translateZ(50px);
 }
 .in_back{
